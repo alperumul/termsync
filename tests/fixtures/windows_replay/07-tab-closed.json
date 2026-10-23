@@ -1,0 +1,307 @@
+{
+  "emit": {
+    "sessions": [
+      {
+        "sessionId": "20000000-0000-4000-8000-000000000004",
+        "cwd": "C:\\fixture\\workspace-03",
+        "startedAt": 1700517736294,
+        "procStart": "130000000000000030",
+        "procStartLive": "130000000000000030",
+        "version": "2.1.306",
+        "kind": "interactive",
+        "name": "Background title 22",
+        "alive": true,
+        "titleRaw": "\u2733 Background title 22",
+        "titleAttachOk": true
+      },
+      {
+        "sessionId": "20000000-0000-4000-8000-000000000006",
+        "cwd": "C:\\fixture\\workspace-01",
+        "startedAt": 1700448152125,
+        "procStart": "130000000000000010",
+        "procStartLive": "130000000000000010",
+        "version": "2.1.304",
+        "kind": "interactive",
+        "name": "Registry name 12",
+        "alive": true,
+        "titleRaw": "\u2733 Background title 18",
+        "titleAttachOk": true
+      },
+      {
+        "sessionId": "10000000-0000-4000-8000-000000000003",
+        "cwd": "C:\\fixture\\s3",
+        "startedAt": 1700533573136,
+        "procStart": "130000000000000100",
+        "procStartLive": "130000000000000100",
+        "version": "2.1.306",
+        "kind": "interactive",
+        "name": "Fixture-three",
+        "alive": true,
+        "titleRaw": "\u2733 Fixture-three",
+        "titleAttachOk": true
+      },
+      {
+        "sessionId": "20000000-0000-4000-8000-000000000003",
+        "cwd": "C:\\fixture\\workspace-02",
+        "startedAt": 1700466200559,
+        "procStart": "130000000000000020",
+        "procStartLive": "130000000000000020",
+        "version": "2.1.304",
+        "kind": "interactive",
+        "name": "Registry name 11",
+        "alive": true,
+        "titleRaw": "\u2733 Background title 02",
+        "titleAttachOk": true
+      },
+      {
+        "sessionId": "20000000-0000-4000-8000-000000000005",
+        "cwd": "C:\\fixture\\workspace-02",
+        "startedAt": 1700518843259,
+        "procStart": "130000000000000050",
+        "procStartLive": "130000000000000050",
+        "version": "2.1.306",
+        "kind": "interactive",
+        "name": "Registry name 10",
+        "alive": true,
+        "titleRaw": "\u25d0 Background title 16",
+        "titleAttachOk": true
+      },
+      {
+        "sessionId": "20000000-0000-4000-8000-000000000001",
+        "cwd": "C:\\fixture\\workspace-02",
+        "startedAt": 1700518819777,
+        "procStart": "130000000000000040",
+        "procStartLive": "130000000000000040",
+        "version": "2.1.306",
+        "kind": "interactive",
+        "name": "Registry name 09",
+        "alive": true,
+        "titleRaw": "\u25d1 Background title 17",
+        "titleAttachOk": true
+      },
+      {
+        "sessionId": "20000000-0000-4000-8000-000000000002",
+        "cwd": "C:\\fixture\\workspace-02",
+        "startedAt": 1700518851023,
+        "procStart": "130000000000000060",
+        "procStartLive": "130000000000000060",
+        "version": "2.1.306",
+        "kind": "interactive",
+        "name": "Registry name 08",
+        "alive": true,
+        "titleRaw": "\u2733 Background title 15",
+        "titleAttachOk": true
+      },
+      {
+        "sessionId": "10000000-0000-4000-8000-000000000005",
+        "cwd": "C:\\fixture\\s5",
+        "startedAt": 1700533586711,
+        "procStart": "130000000000000120",
+        "procStartLive": "130000000000000120",
+        "version": "2.1.306",
+        "kind": "interactive",
+        "name": "Fixture-five",
+        "alive": true,
+        "titleRaw": "\u2733 Fixture-five",
+        "titleAttachOk": true
+      },
+      {
+        "sessionId": "10000000-0000-4000-8000-000000000001",
+        "cwd": "C:\\fixture\\s1",
+        "startedAt": 1700533506258,
+        "procStart": "130000000000000080",
+        "procStartLive": "130000000000000080",
+        "version": "2.1.306",
+        "kind": "interactive",
+        "name": "Fixture-one",
+        "alive": true,
+        "titleRaw": "\u2733 Fixture-one",
+        "titleAttachOk": true
+      },
+      {
+        "sessionId": "10000000-0000-4000-8000-000000000002",
+        "cwd": "C:\\fixture\\s2",
+        "startedAt": 1700533566482,
+        "procStart": "130000000000000090",
+        "procStartLive": "130000000000000090",
+        "version": "2.1.306",
+        "kind": "interactive",
+        "name": "Fixture-two",
+        "alive": true,
+        "titleRaw": "\u2733 Fixture-two",
+        "titleAttachOk": true
+      },
+      {
+        "sessionId": "10000000-0000-4000-8000-000000000007",
+        "cwd": "C:\\fixture\\s1",
+        "startedAt": 1700533989853,
+        "procStart": "130000000000000140",
+        "procStartLive": "130000000000000140",
+        "version": "2.1.306",
+        "kind": "interactive",
+        "name": "Fixture-seven",
+        "alive": true,
+        "titleRaw": "\u2733 Fixture-seven",
+        "titleAttachOk": true
+      },
+      {
+        "sessionId": "10000000-0000-4000-8000-000000000006",
+        "cwd": "C:\\fixture\\s6",
+        "startedAt": 1700533591718,
+        "procStart": "130000000000000130",
+        "procStartLive": "130000000000000130",
+        "version": "2.1.306",
+        "kind": "interactive",
+        "name": "Fixture-six",
+        "alive": true,
+        "titleRaw": "\u2733 Fixture-six",
+        "titleAttachOk": true
+      }
+    ],
+    "claude_process_count": 12,
+    "boot_time": 1700000000000,
+    "codex": [
+      {
+        "sessionId": "30000000-0000-4000-8000-000000000001",
+        "cwd": "C:\\fixture\\workspace-04",
+        "title": "Background title 19",
+        "agent": "codex",
+        "archived": false,
+        "rolloutPath": "C:\\fixture\\codex\\30000000-0000-4000-8000-000000000001.jsonl",
+        "resumeArgs": []
+      }
+    ],
+    "codex_error": "Codex PID 9001: expected one owned CLI thread, found 0",
+    "claude_error": null
+  },
+  "desktop": {
+    "before": [
+      104,
+      106,
+      101,
+      102,
+      103,
+      105
+    ],
+    "after": [
+      104,
+      106,
+      101,
+      102,
+      103,
+      105
+    ],
+    "windows": [
+      {
+        "hwnd": 105,
+        "state": "ok",
+        "error": null,
+        "tabs": [
+          {
+            "index": 0,
+            "name": "Background title 23"
+          },
+          {
+            "index": 1,
+            "name": "\u2733 Background title 22"
+          }
+        ]
+      },
+      {
+        "hwnd": 101,
+        "state": "ok",
+        "error": null,
+        "tabs": [
+          {
+            "index": 0,
+            "name": "Fixture-plain-only"
+          }
+        ]
+      },
+      {
+        "hwnd": 102,
+        "state": "ok",
+        "error": null,
+        "tabs": [
+          {
+            "index": 0,
+            "name": "\u2733 Fixture-six"
+          },
+          {
+            "index": 1,
+            "name": "\u2733 Fixture-seven"
+          }
+        ]
+      },
+      {
+        "hwnd": 103,
+        "state": "ok",
+        "error": null,
+        "tabs": [
+          {
+            "index": 0,
+            "name": "\u2733 Fixture-one"
+          },
+          {
+            "index": 1,
+            "name": "\u2733 Fixture-two"
+          },
+          {
+            "index": 2,
+            "name": "\u2733 Fixture-three"
+          }
+        ]
+      },
+      {
+        "hwnd": 104,
+        "state": "ok",
+        "error": null,
+        "tabs": [
+          {
+            "index": 0,
+            "name": "\u2733 Background title 02"
+          },
+          {
+            "index": 1,
+            "name": "\u2733 Background title 18"
+          },
+          {
+            "index": 2,
+            "name": "Background title 03"
+          },
+          {
+            "index": 3,
+            "name": "Background title 01"
+          },
+          {
+            "index": 4,
+            "name": "Background title 04"
+          },
+          {
+            "index": 5,
+            "name": "Background title 20"
+          },
+          {
+            "index": 6,
+            "name": "Background title 04"
+          }
+        ]
+      },
+      {
+        "hwnd": 106,
+        "state": "ok",
+        "error": null,
+        "tabs": [
+          {
+            "index": 0,
+            "name": "Fixture-middle-shell"
+          },
+          {
+            "index": 1,
+            "name": "Fixture-manual-five"
+          }
+        ]
+      }
+    ]
+  }
+}

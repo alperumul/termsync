@@ -1,0 +1,60 @@
+{
+  "rows": [
+    {
+      "sessionId": "10000000-0000-4000-8000-000000000001",
+      "identityEvidence": {
+        "launchTab": "s1"
+      }
+    },
+    {
+      "sessionId": "10000000-0000-4000-8000-000000000002",
+      "identityEvidence": {
+        "launchTab": "s2"
+      }
+    },
+    {
+      "sessionId": "10000000-0000-4000-8000-000000000003",
+      "identityEvidence": {
+        "launchTab": "s3"
+      }
+    },
+    {
+      "sessionId": null,
+      "identityEvidence": {
+        "launchTab": "middle"
+      }
+    },
+    {
+      "sessionId": "10000000-0000-4000-8000-000000000005",
+      "identityEvidence": {
+        "launchTab": "s5"
+      }
+    },
+    {
+      "sessionId": null,
+      "identityEvidence": {
+        "launchTab": "plain"
+      }
+    }
+  ],
+  "closedRows": [
+    {
+      "sessionId": "10000000-0000-4000-8000-000000000004",
+      "identityEvidence": {
+        "launchTab": "s4"
+      }
+    },
+    {
+      "sessionId": "10000000-0000-4000-8000-000000000006",
+      "identityEvidence": {
+        "launchTab": "s6"
+      }
+    },
+    {
+      "sessionId": "10000000-0000-4000-8000-000000000007",
+      "identityEvidence": {
+        "launchTab": "s7"
+      }
+    }
+  ]
+}

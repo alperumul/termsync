@@ -1,0 +1,49 @@
+{
+  "sourceRows": [
+    {
+      "sessionId": "10000000-0000-4000-8000-000000000001",
+      "windowOrdinal": 3,
+      "tabIndex": 0
+    },
+    {
+      "sessionId": "10000000-0000-4000-8000-000000000003",
+      "windowOrdinal": 3,
+      "tabIndex": 2
+    },
+    {
+      "sessionId": "10000000-0000-4000-8000-000000000007",
+      "windowOrdinal": 5,
+      "tabIndex": 1
+    }
+  ],
+  "expectedSelectedPositions": [
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      2,
+      0
+    ]
+  ],
+  "afterSkippingFirstRow": [
+    [
+      1,
+      0
+    ],
+    [
+      2,
+      0
+    ]
+  ],
+  "afterSkippingFirstWindow": [
+    [
+      1,
+      0
+    ]
+  ]
+}

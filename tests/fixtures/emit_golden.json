@@ -1,0 +1,84 @@
+{
+  "sessions": [
+    {
+      "pid": 1001,
+      "sessionId": "40000000-0000-4000-8000-000000000001",
+      "cwd": "C:\\fixture\\golden",
+      "startedAt": 1700275198595,
+      "procStart": "130000000000000010",
+      "version": "2.1.241",
+      "peerProtocol": 1,
+      "peerFeatures": [
+        "notify_idle"
+      ],
+      "kind": "interactive",
+      "entrypoint": "cli",
+      "messagingSocketPath": "\\\\.\\pipe\\LOCAL\\fixture-golden-1",
+      "name": "Golden session 1",
+      "nameSource": "derived",
+      "nameSince": 1700275198595,
+      "status": "busy",
+      "updatedAt": 1700277162764,
+      "statusUpdatedAt": 1700277162764,
+      "bridgeSessionId": "fixture-bridge-1",
+      "alive": true,
+      "procStartLive": "130000000000000010",
+      "titleRaw": "\u25d1 Golden title 1",
+      "titleAttachOk": true
+    },
+    {
+      "pid": 1002,
+      "sessionId": "40000000-0000-4000-8000-000000000002",
+      "cwd": "C:\\fixture\\golden",
+      "startedAt": 1700215106407,
+      "procStart": "130000000000000020",
+      "version": "2.1.239",
+      "peerProtocol": 1,
+      "peerFeatures": [
+        "notify_idle"
+      ],
+      "kind": "interactive",
+      "entrypoint": "cli",
+      "messagingSocketPath": "\\\\.\\pipe\\LOCAL\\fixture-golden-2",
+      "name": "Golden session 2",
+      "nameSource": "derived",
+      "nameSince": 1700215106407,
+      "status": "idle",
+      "updatedAt": 1700253604398,
+      "statusUpdatedAt": 1700253604398,
+      "bridgeSessionId": "fixture-bridge-2",
+      "alive": true,
+      "procStartLive": "130000000000000020",
+      "titleRaw": "\u2733 Golden title 2",
+      "titleAttachOk": true
+    },
+    {
+      "pid": 1003,
+      "sessionId": "40000000-0000-4000-8000-000000000003",
+      "cwd": "C:\\fixture\\golden",
+      "startedAt": 1700146448325,
+      "procStart": "130000000000000030",
+      "version": "2.1.238",
+      "peerProtocol": 1,
+      "peerFeatures": [
+        "notify_idle"
+      ],
+      "kind": "interactive",
+      "entrypoint": "cli",
+      "messagingSocketPath": "\\\\.\\pipe\\LOCAL\\fixture-golden-3",
+      "name": "Golden session 3",
+      "nameSource": "derived",
+      "nameSince": 1700146448325,
+      "status": "idle",
+      "updatedAt": 1700146466097,
+      "statusUpdatedAt": 1700146466097,
+      "bridgeSessionId": "fixture-bridge-3",
+      "alive": true,
+      "procStartLive": "130000000000000030",
+      "titleRaw": "\u2733 Golden title 3",
+      "titleAttachOk": true
+    }
+  ],
+  "claudeProcessCount": 3,
+  "bootTime": 1700000000000
+}

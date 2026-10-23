@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+uv.lock
+_probe.txt
+scratch/g3/
+
+# Local measurements and continuity records are not source-release inputs.
+# Existing tracked history is unaffected; see docs/DEVELOPMENT.md.
+scratch/
+docs/research/
+docs/handoff/
+docs/reviews/
+docs/TERMSYNC.md
+docs/TERMSYNC.md.rev4-backup
